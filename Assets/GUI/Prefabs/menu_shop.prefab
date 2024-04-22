@@ -425,7 +425,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6121097837964724503}
-  - component: {fileID: 6451252395386555710}
   m_Layer: 0
   m_Name: menu_shop
   m_TagString: Untagged
@@ -455,17 +454,3 @@ RectTransform:
   m_AnchoredPosition: {x: -81.99414, y: 1.065}
   m_SizeDelta: {x: -222, y: 1040}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &6451252395386555710
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7438273631343660806}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_HorizontalFit: 0
-  m_VerticalFit: 0
